@@ -1,0 +1,304 @@
+.macbook-pro {
+    background-color: #e9c395;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .macbook-pro .overlap-wrapper {
+    background-color: #e9c395;
+    height: 1117px;
+    overflow: hidden;
+    width: 1728px;
+  }
+  
+  .macbook-pro .overlap {
+    height: 2446px;
+    position: relative;
+    width: 3050px;
+  }
+  
+  .macbook-pro .vector {
+    height: 978px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1009px;
+  }
+  
+  .macbook-pro .food-delivery-app {
+    height: 606px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 153px;
+    width: 909px;
+  }
+  
+  .macbook-pro .text-wrapper {
+    color: #000000;
+    font-family: "Irish Grover-Regular", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 50px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 39px;
+    white-space: nowrap;
+  }
+  
+  .macbook-pro .div {
+    color: #0b0b0b;
+    font-family: "Irish Grover-Regular", Helvetica;
+    font-size: 64px;
+    font-weight: 400;
+    left: 228px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 253px;
+  }
+  
+  .macbook-pro .navbar {
+    height: 39px;
+    left: 1107px;
+    position: absolute;
+    top: 90px;
+    width: 561px;
+  }
+  
+  .macbook-pro .text-wrapper-2 {
+    color: #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 32px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: -1px;
+  }
+  
+  .macbook-pro .text-wrapper-3 {
+    color: #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 32px;
+    font-weight: 400;
+    left: 160px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: -1px;
+  }
+  
+  .macbook-pro .text-wrapper-4 {
+    color: #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 32px;
+    font-weight: 400;
+    left: 317px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: -1px;
+  }
+  
+  .macbook-pro .text-wrapper-5 {
+    color: #000000;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 32px;
+    font-weight: 400;
+    left: 478px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: -1px;
+  }
+  
+  .macbook-pro .frame {
+    height: 238px;
+    left: 28px;
+    position: absolute;
+    top: 609px;
+    width: 200px;
+  }
+  
+  .macbook-pro .overlap-group {
+    height: 242px;
+    left: -18px;
+    position: relative;
+    top: -5px;
+    width: 240px;
+  }
+  
+  .macbook-pro .img {
+    height: 240px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 240px;
+  }
+  
+  .macbook-pro .text-wrapper-6 {
+    color: #0f0f0f;
+    font-family: "Itim-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 62px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 218px;
+    white-space: nowrap;
+  }
+  
+  .macbook-pro .rectangle {
+    background-color: #ffffff;
+    border-radius: 20px;
+    height: 6px;
+    left: 38px;
+    position: absolute;
+    top: 857px;
+    width: 180px;
+  }
+  
+  .macbook-pro .overlap-group-wrapper {
+    height: 238px;
+    left: 248px;
+    position: absolute;
+    top: 609px;
+    width: 200px;
+  }
+  
+  .macbook-pro .text-wrapper-7 {
+    color: #101010;
+    font-family: "Itim-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 59px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 218px;
+    white-space: nowrap;
+  }
+  
+  .macbook-pro .div-wrapper {
+    height: 238px;
+    left: 468px;
+    position: absolute;
+    top: 609px;
+    width: 200px;
+  }
+  
+  .macbook-pro .text-wrapper-8 {
+    color: #101010;
+    font-family: "Itim-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 62px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 218px;
+    white-space: nowrap;
+  }
+  
+  .macbook-pro .frame-2 {
+    height: 238px;
+    left: 688px;
+    position: absolute;
+    top: 609px;
+    width: 200px;
+  }
+  
+  .macbook-pro .text-wrapper-9 {
+    color: #101010;
+    font-family: "Itim-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 58px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 218px;
+    white-space: nowrap;
+  }
+  
+  .macbook-pro .group {
+    height: 2379px;
+    left: 671px;
+    position: absolute;
+    top: 67px;
+    width: 2379px;
+  }
+  
+  .macbook-pro .overlap-2 {
+    height: 2378px;
+    left: -1px;
+    position: relative;
+    top: 1px;
+    width: 2396px;
+  }
+  
+  .macbook-pro .ellipse {
+    background-color: #e6b171;
+    border-radius: 851.68px / 832.01px;
+    height: 1664px;
+    left: 338px;
+    position: absolute;
+    top: 357px;
+    transform: rotate(-42.63deg);
+    width: 1703px;
+  }
+  
+  .macbook-pro .punjabi {
+    height: 661px;
+    left: 332px;
+    object-fit: cover;
+    position: absolute;
+    top: 352px;
+    width: 656px;
+  }
+  
+  .macbook-pro .element {
+    height: 599px;
+    left: 1783px;
+    object-fit: cover;
+    position: absolute;
+    top: 986px;
+    width: 613px;
+  }
+  
+  .macbook-pro .southfood {
+    height: 599px;
+    left: 1337px;
+    object-fit: cover;
+    position: absolute;
+    top: 1702px;
+    width: 613px;
+  }
+  
+  .macbook-pro .biryani {
+    height: 572px;
+    left: 182px;
+    object-fit: cover;
+    position: absolute;
+    top: 1768px;
+    width: 613px;
+  }
+  
+  .macbook-pro .mama-s-bite-food-is {
+    color: #000000;
+    font-family: "Inika-Regular", Helvetica;
+    font-size: 32px;
+    font-weight: 400;
+    left: 83px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 378px;
+  }
